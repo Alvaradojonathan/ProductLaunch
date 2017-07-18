@@ -1,0 +1,48 @@
+﻿#logo {
+    float: left;
+    max-width: 150px;
+    margin-top: 0px;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+    display: block;
+    width: 100%;
+    height: 5%;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    float: right;
+
+}
+
+    li a {
+        color: gray;
+        text-decoration: none;
+        padding-left: 1em;
+    }
+
+.prodIntro {
+    height: 450px;
+    background-image: url(images/hololens.png);
+    background-size: 50% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size:xx-large;
+}
+
+p {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+}
